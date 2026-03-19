@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ctu_research_env/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# API keys and sensitive data
+*.key
+*.pem
+*.crt
+configs/ctu_research_config.yaml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+backups/
