@@ -1,0 +1,26 @@
+research_institution: "Colorado Technical University"
+research_department: "College of Computer Science"
+research_program: "BS Computer Science - Cybersecurity Major"
+course_code: "CS457"
+course_name: "Advanced Mobile Security & Penetration Testing"
+student_name: "Your Name"
+student_email: "your.email@student.ctuonline.edu"
+academic_advisor: "Your Advisor"
+irb_approval: "Your-IRB-Approval-Code"
+research_ethics: "Approved for educational security research"
+
+research_targets:
+  phone_numbers:
+    - "+15551234567"
+    - "+15559876543"
+  mac_addresses:
+    - "AABBCCDDEEFF"
+    - "112233445566"
+
+api_configuration:
+  numverify:
+    api_key: "your_api_key_here"
+    endpoint: "http://apilayer.net/api/validate"
+  ipstack:
+    api_key: "your_api_key_here"
+    endpoint: "http://api.ipstack.com/"
